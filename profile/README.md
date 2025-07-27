@@ -44,30 +44,28 @@ Abaixo está uma visão geral dos repositórios planejados para esta organizaç�
 
 | Repositório | Descrição | Principais Ferramentas |
 | :--- | :--- | :--- |
-| `python-math-exercises` | Exercícios de conceitos matemáticos implementados em Python. | `math`, `numpy`, `sympy` |
-| `python-physics-exercises` | Exercícios de conceitos físicos implementados em Python. | `numpy`, `scipy`, `matplotlib` |
-| `python-syntax-drills` | Exercícios práticos para reforçar a sintaxe e os recursos da linguagem. | `python`, `pytest`, `doctest` |
-| `python-web-apps` | Aplicações web básicas desenvolvidas com Python. | `flask`, `django`, `fastapi` |
-| `python-integration-projects` | Projetos envolvendo integração entre Python e outras linguagens. | `C# .NET`, `Java Spring Boot`, `Fortran` |
-| `data-manipulation` | Manipulação e análise de grandes volumes de dados. | `pandas`, `numpy`, `dask` |
-| `data-visualization` | Criação de gráficos estáticos, interativos e visualizações estatísticas. | `matplotlib`, `seaborn`, `plotly` |
-| `statistics-and-mathematics` | Funções estatísticas, testes de hipóteses e cálculo simbólico. | `scipy`, `statsmodels`, `sympy` |
-| `machine-learning` | Modelos de aprendizado de máquina, redes neurais e técnicas avançadas. | `scikit-learn`, `tensorflow`, `pytorch` |
-| `deep-learning` | Desenvolvimento de redes neurais profundas e aplicações de IA. | `tensorflow`, `pytorch`, `keras` |
-| `big-data-and-distributed-processing` | Processamento paralelo e distribuído de grandes conjuntos de dados. | `pyspark`, `dask`, `hadoop` |
-| `web-scraping-and-apis` | Extração de dados de páginas web e consumo de APIs. | `beautifulsoup4`, `scrapy`, `requests` |
-| `sql-databases` | Conexão, consulta e gerenciamento de bancos de dados relacionais. | `sqlite3`, `sqlalchemy`, `psycopg2` |
-| `nosql-databases` | Manipulação de bancos de dados NoSQL para dados não estruturados. | `pymongo`, `redis.py`, `cassandra-driver` |
-| `etl-(extract,-transform,-load)` | Pipelines de dados para extração, transformação e carregamento de dados. | `airflow`, `luigi`, `pandas` |
-| `automation-and-scripting` | Automação de tarefas do sistema e manipulação de arquivos. | `os`, `shutil`, `pathlib`, `argparse` |
-| `testing-and-debugging` | Testes unitários e depuração de código para garantir a qualidade. | `pytest`, `unittest`, `pdb` |
-| `cloud-computing` | Ferramentas de integração com serviços de nuvem. | `boto3 (AWS)`, `azure-storage`, `google-cloud` |
-| `version-control-and-collaboration` | Controle de versão, colaboração e gerenciamento de projetos. | `git`, `github`, `gitlab` |
-| `documentation` | Ferramentas para documentação de projetos e códigos. | `sphinx`, `mkdocs`, `docstrings` |
-| `virtual-environments` | Gerenciamento de ambientes e dependências de projetos. | `virtualenv`, `venv`, `conda` |
-| `data-security` | Implementação de segurança, criptografia e conexões seguras. | `hashlib`, `cryptography`, `ssl` |
-| `command-line-tools` | Criação de interfaces de linha de comando (CLI) em Python. | `click`, `argparse`, `typer` |
-| `devops-and-ci-cd` | Integração/entrega contínua, containers e orquestração. | `gitlab-ci`, `github-actions`, `jenkins`, `docker` |
+| [ `python-math-exercises` ](https://www.google.com) | Exercícios de conceitos matemáticos implementados em Python. | `math`, `numpy`, `sympy` |
+| [ `python-physics-exercises` ](https://www.google.com) | Exercícios de conceitos físicos implementados em Python. | `numpy`, `scipy`, `matplotlib` |
+| [ `python-syntax-drills` ](https://www.google.com) | Exercícios práticos para reforçar a sintaxe e os recursos da linguagem. | `python`, `pytest`, `doctest` |
+| [ `python-web-apps` ](https://www.google.com) | Aplicações web básicas desenvolvidas com Python. | `flask`, `django`, `fastapi` |
+| [ `python-integration-projects` ](https://www.google.com) | Projetos envolvendo integração entre Python e outras linguagens. | `C# .NET`, `Java Spring Boot`, `Fortran` |
+| [ `data-manipulation` ](https://www.google.com) | Manipulação e análise de grandes volumes de dados. | `pandas`, `numpy`, `dask` |
+| [ `data-visualization` ](https://www.google.com) | Criação de gráficos estáticos, interativos e visualizações estatísticas. | `matplotlib`, `seaborn`, `plotly` |
+| [ `statistics-and-mathematics` ](https://www.google.com) | Funções estatísticas, testes de hipóteses e cálculo simbólico. | `scipy`, `statsmodels`, `sympy` |
+| [ `machine-learning` ](https://www.google.com) | Modelos de aprendizado de máquina, redes neurais e técnicas avançadas. | `scikit-learn`, `tensorflow`, `pytorch` |
+| [ `deep-learning` ](https://www.google.com) | Desenvolvimento de redes neurais profundas e aplicações de IA. | `tensorflow`, `pytorch`, `keras` |
+| [ `big-data-and-distributed-processing` ](https://www.google.com) | Processamento paralelo e distribuído de grandes conjuntos de dados. | `pyspark`, `dask`, `hadoop` |
+| [ `web-scraping-and-apis` ](https://www.google.com) | Extração de dados de páginas web e consumo de APIs. | `beautifulsoup4`, `scrapy`, `requests` |
+| [ `sql-databases` ](https://www.google.com) | Conexão, consulta e gerenciamento de bancos de dados relacionais. | `sqlite3`, `sqlalchemy`, `psycopg2` |
+| [ `nosql-databases` ](https://www.google.com) | Manipulação de bancos de dados NoSQL para dados não estruturados. | `pymongo`, `redis.py`, `cassandra-driver` |
+| [ `etl-(extract,-transform,-load)` ](https://www.google.com) | Pipelines de dados para extração, transformação e carregamento de dados. | `airflow`, `luigi`, `pandas` |
+| [ `automation-and-scripting` ](https://www.google.com) | Automação de tarefas do sistema e manipulação de arquivos. | `os`, `shutil`, `pathlib`, `argparse` |
+| [ `testing-and-debugging` ](https://www.google.com) | Testes unitários e depuração de código para garantir a qualidade. | `pytest`, `unittest`, `pdb` |
+| [ `cloud-computing` ](https://www.google.com) | Ferramentas de integração com serviços de nuvem. | `boto3 (AWS)`, `azure-storage`, `google-cloud` |
+| [ `version-control-and-collaboration` ](https://www.google.com) | Controle de versão, colaboração e gerenciamento de projetos. | `git`, `github`, `gitlab` |
+| [ `documentation` ](https://www.google.com) | Ferramentas para documentação de projetos e códigos. | `sphinx`, `mkdocs`, `docstrings` |
+| [ `virtual
+
 
 ---
 
